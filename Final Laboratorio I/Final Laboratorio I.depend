@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1661919179 source:c:\users\lucas\desktop\laboratorio i\final laboratorio i\linkedlist.c
+	"LinkedList.h"
+
+1661918147 c:\users\lucas\desktop\laboratorio i\final laboratorio i\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1661897067 source:c:\users\lucas\desktop\laboratorio i\final laboratorio i\validaciones.c
+	"Validaciones.h"
+
+1661897054 c:\users\lucas\desktop\laboratorio i\final laboratorio i\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1661913193 source:c:\users\lucas\desktop\laboratorio i\final laboratorio i\parser.c
+	"Parser.h"
+	"Pokemon.h"
+
+1661905439 c:\users\lucas\desktop\laboratorio i\final laboratorio i\parser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1661920326 c:\users\lucas\desktop\laboratorio i\final laboratorio i\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Parser.h"
+
+1661921793 source:c:\users\lucas\desktop\laboratorio i\final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Pokemon.h"
+	"Validaciones.h"
+	"Controller.h"
+
+1661921205 source:c:\users\lucas\desktop\laboratorio i\final laboratorio i\pokemon,c.c
+	"Pokemon.h"
+	"Validaciones.h"
+
+1661921830 source:c:\users\lucas\desktop\laboratorio i\final laboratorio i\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Validaciones.h"
+	"LinkedList.h"
+	"parser.h"
+	"Pokemon.h"
+
+1661921447 c:\users\lucas\desktop\laboratorio i\final laboratorio i\controller.h
+
